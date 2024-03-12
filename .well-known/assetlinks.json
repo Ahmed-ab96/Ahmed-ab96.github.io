@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kurdfans",
+      "sha256_cert_fingerprints": [
+        "84:A6:33:9E:DE:FE:8C:D5:15:A6:67:3D:3D:84:9D:75:F6:B1:B3:69:30:35:6C:C3:CC:61:1F:B4:10:94:8B:39"
+      ]
+    }
+  }
+]
