@@ -1,1 +1,1 @@
-include: [".well-known"]
+include: [".well-known","asana_delivery.html"]
